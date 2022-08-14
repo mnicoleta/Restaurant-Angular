@@ -1,0 +1,40 @@
+header {
+
+    padding: 0;
+
+
+}
+
+a {
+    color: green;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+a:hover {
+
+    opacity: 1;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a.logo {
+    font-weight: bold;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+
+}
+
+nav ul li a {
+    padding: 1em;
+    display: inline-block;
+}
